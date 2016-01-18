@@ -32,9 +32,10 @@ a:hover {
 	text-align: left;
 }
 .introright {
-	text-align: center;
-	font-size: 18px;
+	text-align: right;
+	font-size: 13px;
 	color: white;
+	background-color: #737e8b;
 }
 .list {
 	text-align: left;
@@ -43,14 +44,18 @@ a:hover {
 	font-size: 20px;
 }
 #rowtwo {
-	min-height: 50px;
+	padding-bottom: 20px;
 }
 #navcountries {
 	background-color: #737e8b;
 }
 #links {
-	text-align: center;
-	font-size: 14px;
+	text-align: right;
+	font-size: 13px;
+	list-style: none;
+	background-color: #737e8b;
+	padding: 10px;
+	word-spacing: 4px;
 }
 #leftcol {
 	background-color: #54748b;
