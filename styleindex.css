@@ -3,17 +3,13 @@ body {
 	font-weight: 290;
 	text-align: center;
 	color: white;
-	background-color: #006633
-}
-#wrapper {
-	width: 400px;
-	margin: 20px auto 20px auto;
+	background-color: #505861;
 }
 h1 {
 	color: #FFFFFF;
-	text-shadow: 3px 3px 3px black;
-  	font-size: 20px;
+  	font-size: 16px;
   	text-align: center;
+  	font-weight: bolder;
 }
 h2 {
   text-align: center;
@@ -30,24 +26,36 @@ a:hover {
 .subtitle {
 	font-size: 16px;
 }
-.intro {
+.introleft {
 	font-size: 22px;
 	color: orange;
 	text-align: left;
 }
+.introright {
+	text-align: center;
+	font-size: 18px;
+	color: white;
+}
 .list {
-	list-style: square;
 	text-align: left;
-	text-indent: 20px;
+	list-style-type: none;
+	text-indent: 0px;
+	font-size: 20px;
 }
-#priority {
-	font-weight: bolder;
-	font-style: italic;
+#rowtwo {
+	min-height: 50px;
 }
-#paragraph {
-	text-align: left;
-	font-size: 16px;
+#navcountries {
+	background-color: #737e8b;
 }
 #links {
-	list-style: disc;
+	text-align: center;
+	font-size: 14px;
+}
+#leftcol {
+	background-color: #54748b;
+}
+#rightcol {
+	background-color: #e4e9ee;
+	min-height: 200px;
 }
