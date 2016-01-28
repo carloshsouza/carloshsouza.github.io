@@ -15,6 +15,12 @@ h2 {
   text-align: center;
   font-size: 22px;
 }
+h3 {
+	text-align: center;
+	font-size: 36px;
+	font-family: 'helvetica';
+	color: black;
+}
 a {
   color: white;
   text-decoration: none;
@@ -50,11 +56,10 @@ a:hover {
 	background-color: #737e8b;
 }
 #links {
-	text-align: right;
+	text-align: left;
 	font-size: 13px;
 	list-style: none;
-	background-color: #737e8b;
-	padding: 10px;
+	padding: 30px;
 	word-spacing: 4px;
 }
 #leftcol {
@@ -63,4 +68,20 @@ a:hover {
 #rightcol {
 	background-color: #e4e9ee;
 	min-height: 200px;
+}
+#pagewrite {
+	background-color: #f5f5f5;
+	min-height: 350px;
+}
+#videoyoutube {
+	padding: 20px;
+}
+.country > img { 
+  	height: 170px;
+  	width: 300px;
+  	padding: 15px;
+}
+#introjava {
+	color: black;
+	font-size: 18px;
 }
