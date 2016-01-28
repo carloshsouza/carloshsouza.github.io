@@ -56,10 +56,10 @@ a:hover {
 	background-color: #737e8b;
 }
 #links {
-	text-align: left;
+	text-align: center;
 	font-size: 13px;
-	list-style: none;
 	padding: 30px;
+	list-style: none;
 	word-spacing: 4px;
 }
 #leftcol {
@@ -77,13 +77,13 @@ a:hover {
 	padding: 20px;
 }
 .country > img { 
-  	height: 120px;
-  	width: 200px;
+  	height: 160px;
+  	width: 300px;
   	padding: 15px;
 }
 #introjava {
 	color: black;
-	font-size: 18px;
+	font-size: 14px;
 }
 #side {
 	padding: 0px;
