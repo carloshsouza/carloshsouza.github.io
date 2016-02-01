@@ -3,7 +3,8 @@ body {
 	font-weight: 290;
 	text-align: center;
 	color: white;
-	background-color: #505861;
+	background-color: #505861; 
+   	overflow-x: hidden;
 }
 h1 {
 	color: #FFFFFF;
@@ -92,7 +93,4 @@ a:hover {
 	color: black;
 	font-size: 24px;
 	padding-top: 40px;
-}
-body { 
-   overflow-x: hidden;
 }
